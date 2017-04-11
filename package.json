@@ -1,0 +1,23 @@
+{
+  "name": "react-address-picker",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/by-healthFED/react-address-picker.git"
+  },
+  "keywords": [
+    "react",
+    "picker"
+  ],
+  "author": "pengxp <pengxp@by-health.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/by-healthFED/react-address-picker/issues"
+  },
+  "homepage": "https://github.com/by-healthFED/react-address-picker#readme"
+}
